@@ -7,4 +7,7 @@ Compilation of all my DATA103 outputs
 
 </br>
 
-Project 2: [KNN]
+Project 2: [KNN](https://github.com/hanzoffcodes/DATA103-Portfolio/tree/main/KNN%20Classifier)
+</br>
+  In this project, we were tasked to run and explore a Jupyter Notebook focused on implementing the K-Nearest Neighbors (KNN) algorithm. The activity involved adjusting hyperparameters and experimenting with various configurations of the libraries used
+
