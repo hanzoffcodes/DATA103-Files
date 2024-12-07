@@ -27,7 +27,6 @@ In this project, we were tasked to create a gradient boosting model from scratch
 </br>
 
 **Project 5:** [Model Explainability](https://github.com/hanzoffcodes/DATA103-Portfolio/tree/main/Model%20Explainability)
-
 </br>
 In this assignment, we were tasked to implement and analyze three interpretability methods—SHAP, LIME, and PDP—using a Random Forest Classifier applied to the Telco Churn Dataset. Each group member was assigned one method to execute, ensuring a collaborative effort. 
 
