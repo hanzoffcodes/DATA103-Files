@@ -1,2 +1,2 @@
 # DATA103-Portfolio
-Compilation of all my DATA103 deliverables
+Compilation of all my DATA103 outputs
