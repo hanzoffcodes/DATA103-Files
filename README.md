@@ -1,5 +1,5 @@
 # DATA103-Portfolio
-Compilation of all my DATA103 outputs
+Compilation of all my DATA103 outputs by: Hanz Tagabucba
 
 **Project 1:** [Python Refresher](https://github.com/hanzoffcodes/DATA103-Portfolio/tree/main/Python%20Refresher)
 </br>
@@ -31,3 +31,7 @@ In this project, we were tasked to create a gradient boosting model from scratch
 In this assignment, we were tasked to implement and analyze three interpretability methods—SHAP, LIME, and PDP—using a Random Forest Classifier applied to the Telco Churn Dataset. Each group member was assigned one method to execute, ensuring a collaborative effort. 
 
 </br>
+
+Quiz: [Quiz 1]
+</br>
+In this project, we developed and evaluated machine learning models (KNN, SVM, and Logistic Regression) using a structured workflow. The task involved data preprocessing, model building, hyperparameter tuning, and performance comparison based on metrics like accuracy and F1-score. We interpreted the best-performing model, explored statistical concepts like distance metrics and regularization, and documented the entire process in a comprehensive Jupyter Notebook.
