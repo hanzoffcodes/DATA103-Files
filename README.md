@@ -32,6 +32,6 @@ In this assignment, we were tasked to implement and analyze three interpretabili
 
 </br>
 
-Quiz: [Quiz 1]
+Quiz: [Quiz 1](https://github.com/hanzoffcodes/DATA103-Portfolio/tree/main/DATA103%20QUIZ%201)
 </br>
 In this project, we developed and evaluated machine learning models (KNN, SVM, and Logistic Regression) using a structured workflow. The task involved data preprocessing, model building, hyperparameter tuning, and performance comparison based on metrics like accuracy and F1-score. We interpreted the best-performing model, explored statistical concepts like distance metrics and regularization, and documented the entire process in a comprehensive Jupyter Notebook.
